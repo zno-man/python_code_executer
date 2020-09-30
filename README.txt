@@ -10,5 +10,5 @@ step4:type the name of the text file in which you have kept the code in
 	(please do not add the file name with extension ; for eg if your file is "xyz.txt" just type xyz)
 
 this has a limited number of python modules so 
-import commant may not work
+import command may not work
  
